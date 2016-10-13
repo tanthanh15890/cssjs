@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='https://goo.gl/6y6hin' target='_blank'><img src='https://lh3.googleusercontent.com/-i2JH0_cDu64/V_z3vMmJZxI/AAAAAAAAMRA/bjEAV2r6rHo_HG1AKwX_gmO7p7XEChHtgCJoC/w252-h234-rw/234956_hinh_tuyen_dung.gif' width='500px'/><br/>Vpbank FC tuyển gấp 10 nhân viên kinh doanh</a>. LH 08.684.34566. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='http://faceseo.vn/bannerweb/hoc-seo-chuyen-sau.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
