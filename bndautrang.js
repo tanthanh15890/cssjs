@@ -110,7 +110,7 @@
 })(jQuery);
         
 jQuery(window).load(function() {
-		if(document.cookie.indexOf("adf") == -1)
+		if(document.cookie.indexOf("adf") == -1)
 		{
 			document.cookie = "adfpopunder1=adf";
 			var divpopup = document.createElement("div");
