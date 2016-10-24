@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://www.nhàbánquận3.vn';
+	var url_popup = 'http://www.nhàbánquận3.vn';
 
       //<![CDATA[
 	  // var url_ppp = 'http://www.nhàbánquận3.vn';
